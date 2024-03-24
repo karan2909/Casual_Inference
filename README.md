@@ -40,7 +40,3 @@ Further examination of additional model accuracy metrics instills confidence in 
 Moving forward, store management may consider alternative strategies for managing Item 1's performance. Options include potentially removing the item from inventory or exploring alternative methods to increase customer interest. Additionally, extending the duration of the promotional period beyond a single day and expanding the pre and post-intervention periods beyond the current 90-day window could provide additional insights into the effectiveness of promotional efforts.
 
 
-
-## Further Research
-
-Future research could explore additional factors influencing sales dynamics, such as external market conditions, competitor strategies, and customer behavior. Additionally, incorporating machine learning models for demand forecasting and predictive analytics could enhance the accuracy and robustness of retail performance analysis.
