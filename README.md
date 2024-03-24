@@ -27,9 +27,19 @@ The primary objective of this analysis is to identify if there exists a causal r
 
 The analysis provides insights into the effectiveness of the promotional intervention on sales for Item 1 at Store 1. By comparing the observed sales trends with counterfactual scenarios, we can ascertain whether the promotion had a statistically significant impact on sales.
 
+![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result1.png)
+![Example Image](https://github.com/karan2909/Causal_Inference/blob/main/Result2.png)
+
+
 ## Conclusion
 
-This project demonstrates the application of causal inference techniques in the retail industry to evaluate the effectiveness of promotional interventions on sales. The findings contribute to informed decision-making by retail managers and provide valuable insights into the causal relationships between interventions and outcomes in retail settings.
+Based on the findings from the causal inference model, the observed fluctuations in sales of Item 1 at Store 1 cannot be solely attributed to the store's promotional intervention.
+
+Further examination of additional model accuracy metrics instills confidence in the reliability of the analysis. The models effectively capture the relationship between sales patterns at Store 1 and comparable patterns observed in other stores unaffected by the promotion.
+
+Moving forward, store management may consider alternative strategies for managing Item 1's performance. Options include potentially removing the item from inventory or exploring alternative methods to increase customer interest. Additionally, extending the duration of the promotional period beyond a single day and expanding the pre and post-intervention periods beyond the current 90-day window could provide additional insights into the effectiveness of promotional efforts.
+
+
 
 ## Further Research
 
